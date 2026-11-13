@@ -1,0 +1,7 @@
+# Secrets and local files - never commit
+.env
+*.key
+*.pem
+kubeconfig*
+*credentials*.json
+.DS_Store
