@@ -1,6 +1,6 @@
 # PROGRESS
 
-- [ ] Task 1 - Tools, repo skeleton, local kind cluster
+- [x] Task 1 - Tools, repo skeleton, local kind cluster
 - [ ] Task 2 - Golden Path, Intent, Argo CD, drift detection
 - [ ] Task 3 - Kyverno policies (admission + CI)
 - [ ] Task 4 - Multi-agent PR review, human approval
